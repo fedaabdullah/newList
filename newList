@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>newList</title>
+    <link rel="stylesheet" href="C:\GOG Games\Desktop\newList\style.css">
+  </head>
+  <body        class="body"  >
+
+    <header>
+
+
+
+
+
+
+
+
+
+</div>
+
+<h1    class="img" >
+  <img      src="C:\GOG Games\Desktop\newList\Capture.JPG" alt="kodluyoruz"   >
+
+  <div     class="contaner">
+    <div class="tooltip"><h3>   Listeye ekleyin
+    <span class="tooltiptext">Boş ekleme yapmayınız</span></h3>
+
+    <input type="submit" class="button" value="Ekle">
+  <form class="" action="index.html" method="post">
+    <input type="text" name="" value="">
+    <input type="text" name="" value="">
+  </form>
+   
+  </h1>
+  </div>
+</div>
+
+
+<div >
+
+
+<ul>
+  <li>3 Litre su  iç</li>
+</ul>
+<ul>
+  <li>Ödevleri yap</li>
+</ul>
+<ul>
+  <li> En az 3 saat kodlama yap</li>
+</ul>
+<ul>
+<li> yemek yap</li>
+</ul>
+<ul>
+<li> 50 sayfa kitap oku</li>
+</ul>
+<ul>
+<li> Java script ödevini yap</li>
+</ul>
+
+    </div>
+
+
+
+
+<script src="C:\GOG Games\Desktop\newList\newList.js" charset="utf-8"></script>
+  </body>
+</html>
